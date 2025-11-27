@@ -1,1 +1,1 @@
-# survery-management-tool
+# survey-management-tool
